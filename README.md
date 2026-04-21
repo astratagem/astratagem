@@ -1,22 +1,21 @@
 ### Hello Word!
 
-I am a software developer specializing in the digital media industry and higher education. I currently work from Philadelphia.
-
-You can reach me:
+C is a web-oriented software developer working in and around the intersection of education, mass media, language, and philosophy.  Based in Philadelphia.
 
 - [@montchr@assemblag.es](https://assemblag.es/@montchr)
-- [chris@cdom.io](mailto:chris@cdom.io)
+- [chmont@protonmail.com](mailto:chmont@protonmail.com)
 
 ### Work
 
-I am lead developer at Klein College
-of Media and Communication at Temple University. 
+Lead software developer 
+at Klein College of Media and Communication
+at Temple University. 
 
 ### Personal Work
 
 I live within and tend to the Dotfield:
 
-https://github.com/montchr/dotfield
+https://github.com/astratagem/dotfield
 
 - Perpetual learner and user of the Nix/NixOS ecosystem
 - Fiddling with Emacs
@@ -40,5 +39,3 @@ https://github.com/montchr/dotfield
   - "Cities of the Red Night" by William S. Burroughs
   - "The Peripheral" by William Gibson
 - Listening to various shows on NTS Radio
-- [Photographing](https://www.instagram.com/catachresis.lamonte/) my cats, deteriorating infrastructure, fleeting observations on hypercapitalism
-- Rarely leaving the house
